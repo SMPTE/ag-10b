@@ -1,8 +1,8 @@
-# SMPTE AG 10b, Liaisons Agreements
+# SMPTE _AG-10b_ - _Liaisons Agreements_
 
 _This repository is *public*._
 
-The current draft of the documents is available at https://smpte.github.io/ag-10b/.
+Rendered at [https://smpte.github.io/ag-10b/] https://smpte.github.io/ag-10b/.
 
 Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONFIDENTIALITY.md), [LICENSE.md](./LICENSE.md) and
 [PATENTS.md](./PATENTS.md) for important notices.
